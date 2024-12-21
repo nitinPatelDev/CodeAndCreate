@@ -1,0 +1,42 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.section-1 {
+    margin-bottom: 20px;
+}
+
+h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+.section-2 {
+    margin: 20px 0;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+    margin: 10px 0;
+}
+
+.section-3 {
+    margin-top: 20px;
+}
+
+ol {
+    margin-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+}
